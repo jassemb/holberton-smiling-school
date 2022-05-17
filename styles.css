@@ -1,10 +1,14 @@
-body {
+html,body {
     font-family: 'Source Sans Pro', sans-serif;
+    padding: auto;
+    max-width: 100%;
+    overflow-x: hidden;
   }
   
   .coiny {
     font-family: 'Coiny';
   }
+  
   
   header {
     background-image: url(images/pic_1.jpg);
@@ -76,7 +80,7 @@ body {
   
   .holberton_school-icon-check {
     font-size: 30px;
-    color: #82d24f;
+    color: #82d24f!important;
   }
   
   .arrow-black {
