@@ -20,6 +20,9 @@ html,body {
   .pricing-header {
     background-image: url(images/pic_2.jpg);
   }
+  .courses-header {
+    background-image: url(images/pic_3.jpg);
+  }
   
   .text-responsive {
     font-size: 10vw;
